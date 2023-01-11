@@ -3,9 +3,6 @@
 
 # In[2]:
 
-
-#Esta será la malla curricular del MEFI 2014 para que yo pueda optimizarla con algoritmos genéticos
-
 #Librerías
 import random
 import numpy as np
